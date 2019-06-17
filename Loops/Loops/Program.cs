@@ -124,6 +124,32 @@ namespace Loops
             }
             Console.WriteLine("n^m = " + result);
 
+
+            //Foreach loops
+            // foreach (type variable in collection)
+            // {
+            //     statements;
+            // }
+
+            int[] numbers = { 2, 3, 5, 7, 11, 13, 17, 19 };
+            foreach (int i in numbers)
+            {
+                Console.Write(" " + i);
+            }
+
+            Console.WriteLine();
+
+            string[] towns = { "London", "Paris", "Milan", "New York" };
+            foreach (string town in towns)
+            {
+                Console.Write(" " + town);
+            }
+
+            // 2 3 5 7 11 13 17 19
+            // London Paris Milan New York
+
+            ////////////////////////////////////////////////////////////////
+
             // Nested Loops
 
             //Printing a Triangle – Example
