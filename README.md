@@ -23,3 +23,35 @@ ulong  	 ->  float, double, decimal
 char  	 ->  ushort, int, uint, long, ulong, float, double, decimal  
 
 float  	 ->  double 
+
+
+
+<h3>Conditional Statements "if-else"</h3>
+
+if (Boolean expression)
+{
+    Body of the conditional statement;
+}
+else
+{   
+    Body of the else statement;
+}
+
+
+
+<h3>Conditional Statement "switch-case"</h3>
+
+switch (integer_selector)
+{
+    case integer_value_1:
+        statements;
+        break;
+    case integer_value_2:
+        statements;
+        break;
+    // …
+    default:
+        statements;
+        break;
+}
+
