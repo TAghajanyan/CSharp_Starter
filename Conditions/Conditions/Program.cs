@@ -104,7 +104,7 @@ namespace Conditions
                     Console.WriteLine("Unknown number!"); break;
             }
             // Console output
-            // The number is not prime!
+            // The number is not prime! 
 
 
         }
