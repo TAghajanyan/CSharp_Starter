@@ -89,7 +89,7 @@ namespace Methods_1
             }
         }
 
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
 
             PrintLogo();
