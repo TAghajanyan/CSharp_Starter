@@ -13,15 +13,6 @@ namespace Conditions
 
             // Conditional Statements "if-else"
 
-            // if (Boolean expression)
-            // {
-            //     Body of the conditional statement;
-            // }
-            // else
-            // {
-            //     Body of the else statement;
-            // }
-
             // if-else Example
 
             int x = 2;
@@ -91,23 +82,7 @@ namespace Conditions
 
 
 
-
             // Conditional Statement "switch-case"
-
-            // switch (integer_selector)
-            // {
-            //     case integer_value_1:
-            //         statements;
-            //         break;
-            //     case integer_value_2:
-            //         statements;
-            //         break;
-            //     // …
-            //     default:
-            //         statements;
-            //         break;
-            // }
-
 
             // Using Multiple Labels
 
