@@ -10,7 +10,7 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            // Basic data types in C#:
+            // Basic data types in C#: 
 
             // - Integer types – sbyte, byte, short, ushort, int, uint, long, ulong;
             // - Real floating - point types – float, double;
