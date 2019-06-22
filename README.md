@@ -1,4 +1,4 @@
-# CSharp_Study
+# CSharp_Starter
 ## [Variables](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables "C# Types and Variables")
 
 
