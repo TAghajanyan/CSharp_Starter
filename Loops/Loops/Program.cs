@@ -122,7 +122,7 @@ namespace Loops
             {                                         
                 result *= n;
             }
-            Console.WriteLine("n^m = " + result);
+            Console.WriteLine("n^m = " + result); 
 
 
             //Foreach loops
